@@ -16,3 +16,4 @@ def make_capatalize(string):
     return capatalized_string
 
 print(make_capatalize(sequnce))
+

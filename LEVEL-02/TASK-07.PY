@@ -1,3 +1,4 @@
+
 '''
 Question 7
 Level 2
@@ -20,3 +21,4 @@ for i in range(X):
     for j in range(Y):
         print(i*j,end = " ")
     print("\n")
+
