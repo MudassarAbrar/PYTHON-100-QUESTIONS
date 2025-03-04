@@ -49,24 +49,6 @@ The questions span various topics to ensure an all-encompassing grasp of Python,
 
 ---
 
-## 💻 **Repository Structure**
-
-The repository is organized for easy navigation and understanding:
-
-```
-📁 100+ Python Questions
-├── 📂 Programming Fundamentals
-├── 📂 Object-Oriented Programming
-├── 📂 Data Structures
-├── 📂 Regular Expressions
-├── 📂 File Handling
-├── 📂 Debugging and Exceptions
-├── 📂 Miscellaneous
-└── README.md
-```
-
----
-
 ## 🚀 **Features**
 
 - **Well-Documented Solutions**: Each solution includes detailed comments for better understanding.
@@ -104,10 +86,9 @@ This assignment is part of the **PIAIC program**, which aims to train individual
 ## 📫 **Contact**
 
 If you have any questions or suggestions, feel free to reach out:
-- **Email**: your.email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Email**: mudassarabrarr@gmail.com
+- **GitHub**:[MudassarAbrar](https://github.com/yourusername)
 
 ---
 
 Happy Coding! 🎉
-
